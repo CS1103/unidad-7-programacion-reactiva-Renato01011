@@ -1,0 +1,8 @@
+﻿  ObserverPattern.cpp
+E:\Universidad\Ciclo 3\POO II\Class 6-28\ObserverPattern\ObserverPattern\Component.h(11,62): warning C4042:  'Windows': has bad storage class
+E:\Universidad\Ciclo 3\POO II\Class 6-28\ObserverPattern\ObserverPattern\Component.h(11,62): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Universidad\Ciclo 3\POO II\Class 6-28\ObserverPattern\ObserverPattern\Component.h(11,61): error C2146:  syntax error: missing ')' before identifier 'w'
+E:\Universidad\Ciclo 3\POO II\Class 6-28\ObserverPattern\ObserverPattern\Component.h(11,62): error C3646:  'w': unknown override specifier
+E:\Universidad\Ciclo 3\POO II\Class 6-28\ObserverPattern\ObserverPattern\Component.h(11,62): error C2059:  syntax error: ')'
+E:\Universidad\Ciclo 3\POO II\Class 6-28\ObserverPattern\ObserverPattern\Window.h(33,1): error C2664:  'std::function<void (Event)> Component::onClick(int)': cannot convert argument 1 from 'Windows' to 'int'
+E:\Universidad\Ciclo 3\POO II\Class 6-28\ObserverPattern\ObserverPattern\Window.h(33,21): message :  No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
